@@ -1,3 +1,4 @@
 # Responsive-website
 
-I'm a new leaner for js and responsive design 
+My first responsive design
+
