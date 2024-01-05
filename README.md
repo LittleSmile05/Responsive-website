@@ -1,4 +1,4 @@
 # Responsive-website
 
-My first responsive design
+Responsive website with HTML,CSS,JS
 
